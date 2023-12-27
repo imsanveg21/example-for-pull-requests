@@ -1,1 +1,2 @@
-CONFLICTING CHANGE
+This is an example.txt file created in the original main branch.
+On main branch an extra commit for a conflic.
